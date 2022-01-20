@@ -9,12 +9,10 @@ import 'firebase/storage'; */
 /* import * as firebase from 'firebase';
 
 const appConfiguration = {
-  apiKey: "AIzaSyC4MOWhX3RS5WQyY5xGl4_O6GP7ggBjgHs",
+ 
   authDomain: "poolplace-97d40.firebaseapp.com",
   projectId: "poolplace-97d40",
-  storageBucket: "poolplace-97d40.appspot.com",
-  messagingSenderId: "343552256078",
-  appId: "1:343552256078:web:7bbb2a9dc9172feb163b1f"
+ 
 };
 
 let app;
