@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "PoolPlace",
+    "slug": "PoolPlace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/gps.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyA_bDUeoaRIuUX6gwxAtnT6r5nKoujUDJY"
+        }
+      },
+      "package": "com.docteur_raf.PoolPlace"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "cette application consiste à ajouter des lieux et à  afficher les détails ainsi que sa localisation"
+  }
+}
